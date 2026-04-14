@@ -3,7 +3,7 @@
 Aplikasi berbasis web menggunakan **Streamlit** untuk melakukan konversi citra warna (RGB) menjadi citra berskala abu-abu (*grayscale*). Program ini dibuat untuk mendemonstrasikan implementasi algoritma pengolahan citra digital di tingkat piksel tanpa menggunakan fungsi otomatis dari library pengolah citra.
 
 ## Link Web
-
+https://rgb-to-grayscale.streamlit.app/
 
 ## Fitur Utama
 * **Upload Citra**: Mendukung format `.jpg`, `.jpeg`, dan `.png`.
