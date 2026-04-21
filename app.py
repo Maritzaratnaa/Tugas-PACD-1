@@ -62,7 +62,7 @@ if image is not None:
     with st.spinner("Processing..."):
         if method == "Averaging":
             gray = grayscale_averaging(img_array)
-        elif method == "Weighting (Luminosity)":
+        elif method == "Weighting":
             gray = grayscale_weighting(img_array)
         elif method == "Desaturation":
             gray = grayscale_desaturation(img_array)
